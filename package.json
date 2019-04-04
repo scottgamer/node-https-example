@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scottgamer/node-https-example/issues"
   },
-  "homepage": "https://github.com/scottgamer/node-https-example#readme"
+  "homepage": "https://github.com/scottgamer/node-https-example#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
