@@ -1,0 +1,19 @@
+{
+  "name": "https_server_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottgamer/node-https-example.git"
+  },
+  "author": "Richard Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottgamer/node-https-example/issues"
+  },
+  "homepage": "https://github.com/scottgamer/node-https-example#readme"
+}
